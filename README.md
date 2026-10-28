@@ -1,5 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I%27m+ansalim01;Backend+%7C+Fullstack+Developer;Building+clean%2C+useful+systems" alt="Typing SVG" />
+  <svg width="820" height="170" viewBox="0 0 820 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="panelGlow" x1="0" x2="820" y1="0" y2="170" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#8B5CF6"/>
+        <stop offset="0.5" stop-color="#22D3EE"/>
+        <stop offset="1" stop-color="#34D399"/>
+      </linearGradient>
+      <linearGradient id="textGlow" x1="120" x2="700" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#F5F3FF"/>
+        <stop offset="0.5" stop-color="#E2E8F0"/>
+        <stop offset="1" stop-color="#CFFAFE"/>
+      </linearGradient>
+    </defs>
+    <rect x="12" y="12" width="796" height="146" rx="28" fill="#0D1117" stroke="url(#panelGlow)" stroke-width="2"/>
+    <circle cx="74" cy="85" r="18" fill="#8B5CF6" opacity="0.9">
+      <animate attributeName="r" values="14;22;14" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="74" cy="85" r="34" stroke="#8B5CF6" stroke-opacity="0.38" stroke-width="2" fill="none">
+      <animate attributeName="r" values="28;42;28" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M118 92H688" stroke="url(#panelGlow)" stroke-width="2" stroke-linecap="round" opacity="0.8">
+      <animate attributeName="stroke-dasharray" values="0 570;260 310;0 570" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <text x="128" y="92" fill="url(#textGlow)" font-size="34" font-weight="700" font-family="Segoe UI, sans-serif">Hi, I’m ansalim01</text>
+    <text x="128" y="120" fill="#8B5CF6" font-size="16" font-weight="600" font-family="Segoe UI, sans-serif">Backend • Fullstack • Building clean things</text>
+  </svg>
 </p>
 
 <p align="center">
@@ -20,15 +47,15 @@
 <h3 align="center">About me</h3>
 
 <p align="center">
-  I’m a software developer focused on building practical, reliable, and scalable products.
+  I’m a software developer focused on building reliable, scalable, and practical products.
   <br />
-  I like clean architecture, thoughtful code, and turning ideas into real-world solutions.
+  I enjoy clean architecture, thoughtful code, and turning ideas into real solutions.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Fullstack-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Code-quality-strong-34D399?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem-solving-constant-22D3EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-constant-22D3EE?style=for-the-badge" />
 </p>
 
 ---

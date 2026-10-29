@@ -39,11 +39,10 @@
 <!-- GitHub Analytics -->
 <h2 align="center">📈 GitHub Analytics</h2>
 
-<!-- Top Three Charts -->
+<!-- Top Two Charts -->
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansalim01&theme=github_dark" alt="Languages by Repository" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansalim01&theme=github_dark&utcOffset=3" alt="Commit Activity" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansalim01&theme=github_dark" alt="Languages by Commit" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansalim01&theme=github_dark" alt="Top Languages by Repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansalim01&theme=github_dark&utcOffset=3" alt="Commits by Hour" />
 </p>
 
 <!-- 3D Contribution Graph -->

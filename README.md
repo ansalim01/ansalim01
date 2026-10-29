@@ -1,4 +1,3 @@
-```html
 <!-- Animated Header -->
 <p align="center">
   <img
@@ -75,4 +74,3 @@ $ git status
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=110&section=footer" width="100%" />
 </p>
-```
